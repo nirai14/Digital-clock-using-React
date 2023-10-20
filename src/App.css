@@ -1,0 +1,25 @@
+
+/* 2nd method */
+body{
+  background: linear-gradient( to right, rgb(99, 99, 255),white);
+  text-align: center;
+}
+span{
+  font-size: 200px;
+  color: rgb(7, 7, 124);
+}
+h1{
+  font-size: 80px;
+  color: rgb(118, 12, 12);
+}
+
+/* 1st method */
+.outerclock{
+position: relative;
+top: 300px;
+}
+.clock{
+  font-size: 180px;
+  font-weight: 600;
+
+}
